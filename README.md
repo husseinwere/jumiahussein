@@ -27,6 +27,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 I have commented out the 'seed' parameter from being sent to the Randomuser API.
 This is because when included, it stops the gender filter from working.
-Ibelieve this is an issue with the randomuser API and not my application.
+I believe this is an issue with the randomuser API and not my application.
 
 It was fun working on this exercise and I hope you like my design and overall code!
