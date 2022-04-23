@@ -1,0 +1,39 @@
+#users {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    background-color: #fff;
+    padding: 50px 30px;
+}
+h2 {
+    margin-top: 0;
+}
+table {
+    width: 100%;
+    font-size: 13px;
+}
+.profile {
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+}
+.action-panel {
+    display: flex;
+    justify-content: space-between;
+    background-color: #efefef;
+    width: 100%;
+    margin: 20px 0;
+    padding: 30px 15px 15px 15px;
+    font-size: 14px;
+    border-radius: 5px;
+}
+.action-panel mat-form-field {
+    width: 100%;
+}
+.table-container {
+    width: 100%;
+    overflow: auto;
+}
+.row-loader {
+    padding: 0 25px;
+}
