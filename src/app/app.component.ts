@@ -38,7 +38,7 @@ export class AppComponent {
     })
   }
 
-  rawToTable(data: any){
+  rawToTable(data: any[]){
     for(let x of data){
       let picture = {
         'background': 'url('+x.picture.thumbnail+')', 
