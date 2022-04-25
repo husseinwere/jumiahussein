@@ -47,6 +47,6 @@ I have commented out the 'seed' parameter from being sent to the Randomuser API.
 This is because when included, it stops the gender filter from working.
 I believe this is an issue with the randomuser API and not my application.
 
-With more time, I would do more unit tests and E2E tests
+With more time, I would do more unit tests and E2E tests. To improve the design, I would only display essential columns as per business requirements and on clicking a row (a user), display another interface with full user details.
 
 It was fun working on this exercise and I hope you like my design and overall code!
